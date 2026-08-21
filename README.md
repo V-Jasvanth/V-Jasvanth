@@ -162,8 +162,6 @@ A responsive hostel management application using Firebase Authentication and Fir
 
 ## GitHub Analytics
 
-## GitHub Analytics
-
 <p align="center">
 
 <img height="170" src="./profile/stats.svg" alt="GitHub Stats"/>
