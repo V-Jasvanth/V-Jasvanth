@@ -162,43 +162,28 @@ A responsive hostel management application using Firebase Authentication and Fir
 
 ## GitHub Analytics
 
+## GitHub Analytics
+
 <p align="center">
 
-<a href="https://github.com/V-Jasvanth">
+<img height="170" src="./profile/stats.svg" alt="GitHub Stats"/>
+
+<img height="170" src="./profile/top-langs.svg" alt="Most Used Languages"/>
+
+</p>
+
+<p align="center">
+
+<img src="./profile/activity-graph.svg" alt="GitHub Activity Graph"/>
+
+</p>
+
+<p align="center">
 
 <img height="170" src="https://streak-stats.demolab.com?user=V-Jasvanth&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
 
-</a>
-
 </p>
 
-<p align="center">
-
-<a href="https://github.com/V-Jasvanth">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=V-Jasvanth&show_icons=true&theme=midnight-purple&hide_border=true&cache_seconds=86400" alt="GitHub Stats"/>
-
-</a>
-
-<a href="https://github.com/V-Jasvanth">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-Jasvanth&layout=compact&theme=midnight-purple&hide_border=true&cache_seconds=86400" alt="Most Used Languages"/>
-
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/V-Jasvanth">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=V-Jasvanth&bg_color=0D1117&color=8A2BE2&line=6A0DAD&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-
-</a>
-
-</p>
-
----
 
 ## Current Focus
 
