@@ -3,7 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4B0082,50:6A0DAD,100:8A2BE2&text=Vekanuru%20Jasvanth&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=AI%20Developer%20%E2%80%A2%20Python%20Developer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=58" alt="Vekanuru Jasvanth"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&weight=600\&size=24\&duration=3000\&pause=1000\&color=8A2BE2\&center=true\&vCenter=true\&width=700\&lines=AI+Developer;Python+Developer;Full+Stack+Developer;Building+Practical+Software)](https://git.io/typing-svg)
-
 </div>
 
 <p align="center">
