@@ -46,13 +46,9 @@ I enjoy building practical software that solves real problems, from AI-powered w
 <b>Also working with:</b>
 
 Chart.js • Firebase Authentication • Firebase Realtime Database • REST APIs
-
 </p>
-
 ---
-
 ## Featured Projects
-
 <table>
 <tr>
 
